@@ -1,5 +1,5 @@
 @echo off
-title ZD20 Pinger
+title SillyScarlys Pinger
 mode 60,20
 color 2
                                                       
